@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8697b1d9-4905-49b3-aac2-fb6629539723" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day1/Day2/1_PrimitiveDataTypes/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day1/Day2/2_Conversion/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day1/Day2/3_MathematicalOperations/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day1/Day2/4_FString/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day1/Day2/4_TipCalculator/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/1_ControlFlow/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/2_NestedControlFlow/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/3_TreasureIsland/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +34,11 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
